@@ -1,0 +1,7 @@
+{
+  "telegram_token": "8626847285:AAGCI4bCXDo91NKJSTicwLfZuztJUqyqUqc",
+  "allowed_chat_id": "8322611128",
+  "ollama_url": "http://s1.oowow.world:11434/api/generate", 
+  "project_path": "/root/AI/cmangos-web",
+  "sandbox_name": "openclaw-sandbox"
+}
